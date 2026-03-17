@@ -20,7 +20,7 @@ public class CustomList {
     // public boolean hasCity(City city) { ... }
 
     public boolean hasCity(City city) {
-         return cities.contains(city);
+        return cities.contains(city);
     }
 
 
